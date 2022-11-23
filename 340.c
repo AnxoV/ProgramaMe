@@ -1,3 +1,5 @@
+// https://www.aceptaelreto.com/problem/statement.php?id=340
+
 #include <stdio.h>
 
 int cerillas(int n, int m);
